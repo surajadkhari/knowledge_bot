@@ -141,7 +141,9 @@ if prompt := st.chat_input("Ask a question about your documents..."):
     system_prompt = (
         "Always mentioned responed that I am Mr Bin.You are a helpful knowledge base assistant. Answer the user's question "
         "using ONLY the provided context below. If the context doesn't contain "
-        "the answer, say 'I couldn't find that in the knowledge base.' "
+        "the answer, say '"
+        ""
+        "I couldn't find that in the knowledge base.' "
         "Cite your sources when possible.\n\n"
         f"CONTEXT:\n{context}"
     )
