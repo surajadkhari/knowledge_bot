@@ -1,0 +1,16 @@
+Acme Corp Employee Handbook
+
+## Company Overview
+Acme Corp was founded in 2018 by Jane Smith and John Doe. We build AI-powered productivity tools for small businesses. Our headquarters is in San Francisco, CA, with a remote-first culture.
+
+## Vacation Policy
+Employees get 20 days of paid vacation per year. Unused vacation days roll over up to a maximum of 30 days. You must submit vacation requests at least 2 weeks in advance through the HR portal.
+
+## Tech Stack
+Our primary stack is Python + React. We use PostgreSQL for databases, Redis for caching, and AWS for cloud infrastructure. All code is hosted on GitHub and deployments go through GitHub Actions CI/CD pipelines.
+
+## Security Policy
+All employees must use 2FA for all company accounts. Passwords must be rotated every 90 days. Never share credentials over email or Slack — use the company password manager (1Password). Report security incidents immediately to security@acmecorp.com.
+
+## Remote Work
+We are remote-first. Core hours are 10am-3pm Pacific Time. Team communication happens primarily on Slack, with Zoom for video calls. We have an annual company retreat in January.
